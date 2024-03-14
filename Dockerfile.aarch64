@@ -45,6 +45,8 @@ RUN \
     php83-sqlite3 \
     php83-sysvsem \
     php83-xmlreader \
+    python3 \
+    py3-pip \
     rsync \
     samba-client \
     sudo && \
